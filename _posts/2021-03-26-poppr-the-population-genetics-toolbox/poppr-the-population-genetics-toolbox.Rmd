@@ -1,0 +1,24 @@
+---
+title: "poppr: The Population Genetics Toolbox"
+description: |
+  For the past 8 years, {poppr} has been an essential package for population
+  geneticists in the Plant Pathology community and beyond. It was the first 
+  package to include a caculation of the index of association and has been
+  cited in over 500 scientific publications.
+Zhian N. Kamvar
+date: 03-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
